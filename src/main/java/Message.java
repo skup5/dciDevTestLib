@@ -6,6 +6,6 @@
 public class Message {
 
     public String getMessage(){
-        return "dciDevTestLib:1.0.0-foo";
+        return "dciDevTestLib:2.0.0-foo";
     }
 }
